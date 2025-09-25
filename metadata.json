@@ -1,0 +1,5 @@
+{
+  "name": "Social Content Locker",
+  "description": "Generate a content lock that requires users to complete social media actions like following, liking, or subscribing to unlock your exclusive content or download links.",
+  "requestFramePermissions": []
+}
